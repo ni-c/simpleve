@@ -1,0 +1,1 @@
+CREATE INDEX `typeName` ON `invTypes` (`typeName`);

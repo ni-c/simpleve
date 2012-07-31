@@ -1,0 +1,1 @@
+Put eve image dump from http://wiki.eve-id.net/CCP_Image_Dump here.
